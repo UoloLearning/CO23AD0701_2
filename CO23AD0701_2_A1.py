@@ -1,5 +1,0 @@
-print("Name :  Divya")
-print("Grade :  8")
-print("Section : B")
-print("XYZ High School")
-print("Computer Science")
